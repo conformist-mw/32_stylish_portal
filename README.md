@@ -19,8 +19,8 @@ $ sudo systemctl restart nginx.service
 
 Сайты доступны по адресам:
 
-- [первый](http://127.0.0.1:8081)
-- [второй](http://127.0.0.1:8082)
+- [government.ru](http://127.0.0.1:8081)
+- [2016.goldensite.ru](http://127.0.0.1:8082)
 
 # Project Goals
 
